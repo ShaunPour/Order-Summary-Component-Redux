@@ -1,8 +1,12 @@
 @use '../util' as *;
 
+//Body center align text
+
 body {
 	text-align: center;
 }
+
+/* HEADER BASE VALUES */
 
 h1,
 h2,
@@ -15,10 +19,14 @@ h1,h2,h3,h4,h5,h6 {
 	color: var(--dark-blue);
 }
 
+/* TITLE FONT SIZE */
+
 .order-sum {
 	font-size: 22px;
 	padding-top: 2rem;
 }
+
+/* CANCEL & PARA BUTTONS */
 
 .cancel,p {
 	color: var(--desaturated-blue);

@@ -1,3 +1,5 @@
+/* Boilerplate styles to apply to the page as a whole */
+
 html {
 	font-size: 100%;
 	box-sizing: border-box;
@@ -15,9 +17,13 @@ body {
 	background-color: var(--pale-blue);
 }
 
+//Card Background Color
+
 .container {
 	background-color: var(--white);
 }
+
+/* Plan & Pricing BG Color */
 
 .plan {
 	background-color: var(--very-desaturated-blue);
