@@ -1,5 +1,9 @@
 @use '../util' as *;
 
+body {
+	text-align: center;
+}
+
 h1,
 h2,
 h3 {
@@ -7,8 +11,19 @@ h3 {
 	line-height: 1.1;
 }
 
-a,
-a:visited,
-a:active {
+h1,h2,h3,h4,h5,h6 {
+	color: var(--dark-blue);
+}
+
+.order-sum {
+	font-size: 22px;
+	padding-top: 2rem;
+}
+
+.cancel,p {
+	color: var(--desaturated-blue);
+}
+
+.cancel {
 	text-decoration: none;
 }

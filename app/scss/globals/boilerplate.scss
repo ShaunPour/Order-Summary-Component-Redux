@@ -12,4 +12,13 @@ html {
 body {
 	margin: 0;
 	padding: 0;
+	background-color: var(--pale-blue);
+}
+
+.container {
+	background-color: var(--white);
+}
+
+.plan {
+	background-color: var(--very-desaturated-blue);
 }
