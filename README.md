@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/ShaunPour/Order-Summary-Component-Redux](https://github.com)
-- Live Site URL: [https://shaunpour.github.io/Order-Summary-Component-Redux](https://shaunpour.github.io.com)
+- Solution URL: [https://github.com/ShaunPour/Order-Summary-Component-Redux](https://github.com/ShaunPour/Order-Summary-Component-Redux)
+- Live Site URL: [https://shaunpour.github.io/Order-Summary-Component-Redux](https://shaunpour.github.io.com/Order-Summary-Component-Redux)
 
 ## My process
 
